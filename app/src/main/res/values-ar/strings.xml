@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_change_language">غير اللغة</string>
+    <string name="text_notification_change_language">مجرد لحظة بينما نقوم بإعداد%s…</string>
+    <string name="title_settings_change_language">لغة</string>
+    <string name="text_dialog_ok">حسنا</string>
+    <string name="text_note">يظهر إعصار سوبر Trami بالقرب من بحر الصين الجنوبي</string>
+</resources>

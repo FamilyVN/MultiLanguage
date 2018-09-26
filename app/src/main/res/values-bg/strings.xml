@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_change_language">Смени езика</string>
+    <string name="text_notification_change_language">Само за момент, докато настроихме %s…</string>
+    <string name="title_settings_change_language">Език</string>
+    <string name="text_dialog_ok">Добре</string>
+    <string name="text_note">Super Typhoon Trami се появява близо до Южнокитайско море</string>
+</resources>

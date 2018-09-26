@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_change_language">Dili dəyişdirin</string>
+    <string name="text_notification_change_language">%s dili qurarkən bir an…</string>
+    <string name="title_settings_change_language">Dil</string>
+    <string name="text_dialog_ok">Tamam</string>
+    <string name="text_note">Süper Typhoon Trami Güney Çin Denizi\'nin yakınında görünür.</string>
+</resources>

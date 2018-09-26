@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_change_language">Thay đổi ngôn ngữ</string>
+    <string name="text_notification_change_language">Hãy chờ trong giây lát trong khi chúng tôi thiết lập %s …</string>
+    <string name="title_settings_change_language">Cài đặt ngôn ngữ</string>
+    <string name="text_dialog_ok">Đồng ý</string>
+    <string name="text_note">Siêu bão Trami xuất hiện gần Biển Đông</string>
+</resources>

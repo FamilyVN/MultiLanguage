@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_change_language">Змінити мову</string>
+    <string name="text_notification_change_language">Хвіліначку, а мы стварылі %s…</string>
+    <string name="title_settings_change_language">Мова</string>
+    <string name="text_dialog_ok">Добра</string>
+    <string name="text_note">Супер Тайфун Трамі з\'являється поблизу Південно-Китайського моря</string>
+</resources>

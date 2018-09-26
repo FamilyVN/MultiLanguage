@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_change_language">Shintsha ulimi</string>
+    <string name="text_notification_change_language">Umzuzwana nje ngenkathi simisa %s…</string>
+    <string name="title_settings_change_language">Ulimi</string>
+    <string name="text_dialog_ok">KULUNGILE</string>
+    <string name="text_note">I-Super Typhoon Trami ibonakala eduze kweSouth China Sea</string>
+</resources>
